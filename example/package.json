@@ -17,7 +17,7 @@
     "react-router-dom": "^5.2.0",
     "@use-gesture/react": "latest",
     "styled-components": "^5.3.0",
-    "three-stdlib": "^2.3.1",
+    "three-stdlib": "^2.8.5",
     "use-error-boundary": "^2.0.6",
     "zustand": "^3.5.7"
   },
