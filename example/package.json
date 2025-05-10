@@ -9,15 +9,15 @@
   "dependencies": {
     "@react-spring/core": "^9.2.4",
     "@react-spring/three": "^9.2.4",
-    "@react-three/drei": "^7.2.1",
+    "@react-three/drei": "^9.69.3",
     "lodash-es": "^4.17.21",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-merge-refs": "^1.1.0",
-    "react-router-dom": "^5.2.0",
+    "react-router-dom": "^6.0.0",
     "@use-gesture/react": "latest",
     "styled-components": "^5.3.0",
-    "three-stdlib": "^2.3.1",
+    "three-stdlib": "^2.22.6",
     "use-error-boundary": "^2.0.6",
     "zustand": "^3.5.7"
   },
