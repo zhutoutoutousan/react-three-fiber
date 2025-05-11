@@ -40,7 +40,7 @@
     "prebuild": "cp ../../readme.md readme.md"
   },
   "dependencies": {
-    "@babel/runtime": "^7.13.10",
+    "@babel/runtime": "^7.26.10",
     "react-merge-refs": "^1.1.0",
     "react-reconciler": "^0.26.2",
     "react-three-fiber": "0.0.0-deprecated",
